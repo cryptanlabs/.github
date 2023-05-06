@@ -1,14 +1,4 @@
-## Cryptan Labs
+# Cryptan Labs
+![logo_white-1](https://user-images.githubusercontent.com/80609236/236592112-41734518-6d15-49fb-a32f-00cb81fe17ac.png)
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
-
-
+Cryptan Labs is an emerging tech incubator specializing in blockchain, AI, ecommerce, and transformative technologies.  We incubate and accelerate early stage companies and partner with established brands to build and go to market.
